@@ -1,0 +1,4 @@
+Disclaimer: This set of homework applies SMOTE to a seriously imbalanced dataset
+with a large number of features and data points. SMOTE is essentially a time consuming
+method. You need to start doing this homework early, so that you have enough time to run
+SMOTE on the full dataset.
