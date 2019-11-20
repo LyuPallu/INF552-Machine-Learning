@@ -1,0 +1,4 @@
+Supervised, Semi-Supervised, and Unsupervised Learning
+passive learning
+active learning
+Monte-Carlo simulation
